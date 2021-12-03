@@ -2,10 +2,10 @@
  ======================   PASSWORD GENERATOR   ======================
 ######################################################################
 
-Step 1 - CREATE FUNCTIONS:
--
-    characters_number   - Number of characters the password will have
-    uppercase_generator - Generates uppercase according to the option chosen by the user
-    symbols_generator   - Generates symbols according to the option chosen by the user
-    numbers_generator   - Generates numbers according to the option chosen by the user
 
+Custom password generator, where the user must enter the information below to include in the password:
+- 
+    Total amount of characters;
+    Number of capital letters and which letters will be used;
+    Number of symbols and which symbols will be used;
+    Number of digits that are used; 
