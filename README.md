@@ -1,6 +1,6 @@
-######################################################################
+
  ======================   PASSWORD GENERATOR   ======================
-######################################################################
+
 
 
 Custom password generator, where the user must enter the information below to include in the password:
