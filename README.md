@@ -3,7 +3,7 @@
 
 
 
-Custom password generator, where the user must enter the information below to include in the password:
+## Custom password generator, where the user must enter the information below to include in the password:
 - 
     Total amount of characters;
     Number of capital letters and which letters will be used;
