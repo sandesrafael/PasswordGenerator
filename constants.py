@@ -1,5 +1,5 @@
 MIN_CHAR = 12
 MAX_CHAR = 20
 
-NUM_MIN = 1
-NUM_MAX = 3
+MIN_NUM = 1
+MAX_NUM = 3
