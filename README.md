@@ -1,11 +1,30 @@
+<h1 align="center">
+  Password Generator
+</h1>
+<p align="center">
+ Custom Password Generator
+</p>
 
- ======================   PASSWORD GENERATOR   ======================
+
+<h4 id=status align="center"> 
+	🚧  Em desenvolvimento...  🚧
+</h4><br>
 
 
+## Instalação no ambiente Windows
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
 
-## Custom password generator, where the user must enter the information below to include in the password:
-- 
-    Total amount of characters;
-    Number of capital letters and which letters will be used;
-    Number of symbols and which symbols will be used;
-    Number of digits that are used; 
+## Instalação no ambiente Linux
+```bash
+"executar dentro do primeiro nível do app"
+
+sudo apt install python3-pip
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
